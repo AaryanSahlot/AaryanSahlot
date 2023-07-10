@@ -1,8 +1,8 @@
 👋🏽 Hi there! I'm Aaryan Sahlot, a soon-to-be graduate with a Bachelor's degree in Computer Science and Engineering. Hailing from India, I have a strong passion for creating compelling content and developing effective strategies that drive business growth.
 
 Skills:
-🔹 Python, Java, C++, Sql, App Development
-🔹 Software Development
+🔹 Python, Java, C++, Sql.
+🔹 App Development
 
 📚 During an intensive course of App development for begineers, I gained expertise in Java, Android Studio and more. This course has equipped me with the skills to tackle complex challenges and deliver innovative solutions.
 
